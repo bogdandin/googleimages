@@ -1,4 +1,4 @@
-# googleimages
+# google images extractor button
 button to extract images from google
 
 This script is tested on crome windows
